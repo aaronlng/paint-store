@@ -7,6 +7,8 @@ The page is almost ready to be published. You’ll be making the following color
   - Exchange some named colors with hexadecimal color values.
   - Add some semi-transparent overlays to the banner and footer using RGBA.
   - Fill in the first color column of the swatch samples using HSL colors.
+  
+> Project 3 in the Codecademy Web Development Course Module 4: Getting More Advanced with Design
 
 ## Author
 
