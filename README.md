@@ -7,3 +7,11 @@ The page is almost ready to be published. You’ll be making the following color
   - Exchange some named colors with hexadecimal color values.
   - Add some semi-transparent overlays to the banner and footer using RGBA.
   - Fill in the first color column of the swatch samples using HSL colors.
+
+## Author
+
+### Aaron Long
+
+- [GitHub Profile](https://github.com/aaronlng/)
+
+- Twitter: [@aaronlng](https://twitter.com/aaronlng)
